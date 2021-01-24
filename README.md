@@ -5,4 +5,4 @@
 To run the code, simply run the source file through a compiler that supports the C++ 11 standard.
 Code was compiled on Windows, using the MSVC++ compiler (optimizing compiler).
 
-Example: `g++ example.cpp -o example` and then `./example`.
+Example: `g++ -std=c++11 example.cpp -o example` and then `./example`.
